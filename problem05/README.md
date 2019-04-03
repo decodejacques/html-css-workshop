@@ -7,9 +7,6 @@ Write an HTML page that matches the following:
 
 If you did not find the previous exercise easy, start from scratch.
 
-## Submission
-
-The same as the previous exercise
 
 ## Reference
 
